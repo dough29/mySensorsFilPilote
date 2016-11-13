@@ -1,7 +1,7 @@
 #include <MySensor.h>
 
-#define MOC_P 3 // MOC branché sur la phase
-#define MOC_N 4 // MOC branché sur le neutre
+#define MOC_P 3 // MOC phase positive
+#define MOC_N 4 // MOC phase négative
 
 #define CHILD_ID_FP 1 // Identifiant du capteur
 
